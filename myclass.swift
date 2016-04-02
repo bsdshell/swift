@@ -36,3 +36,7 @@ let str4 = "\(str1),\(str2)"
 print("str3=" + str3)
 print("str4=" + str4)
 
+// swift array
+var array = [Int]()
+print("size=" + array.count)
+
